@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chinmayi D S
 <p align="center">
-  Click [Portfolio](https://my-portfolio-sigma-vert-38.vercel.app/) to know me.
+  <a href="https://my-portfolio-sigma-vert-38.vercel.app/" target="blank">Portfolio</a>
 </p>
 <!---
 urgetolearn/urgetolearn is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
