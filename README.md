@@ -12,3 +12,9 @@
 urgetolearn/urgetolearn is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p>Passionate about building meaningful tech.
+Through experiences at Apollo Global Management, Google Summer of Code, and The Linux Foundation, I’ve explored how innovation, community, and collaboration come together to solve real-world challenges.
+
+Curious by nature, I love learning from people, exploring open source, and working on projects that push boundaries.
+
+Always open to conversations around tech, product, and open source communities.</p>
