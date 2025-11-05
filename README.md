@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chinmayi D S
 <p align="center">
-  <a href="https://my-portfolio-sigma-vert-38.vercel.app/" target="blank">Portfolio</a>
+  <a href="(https://portfolio-gilt-xi-72.vercel.app/)" target="blank">Portfolio</a>
   -
   <a href="https://www.linkedin.com/in/chinmayi-d-s-2608b0263/" target="blank">LinkedIn</a>
   -
